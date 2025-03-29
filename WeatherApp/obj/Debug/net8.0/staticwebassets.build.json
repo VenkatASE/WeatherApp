@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MQvUSnzCbsOknj+CV+a3fUNGDGjrg8aFldKrL956Z1I=",
+  "Source": "WeatherApp",
+  "BasePath": "_content/WeatherApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
