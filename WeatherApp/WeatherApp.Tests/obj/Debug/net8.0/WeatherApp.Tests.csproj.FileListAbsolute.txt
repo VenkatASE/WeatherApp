@@ -552,3 +552,14 @@ E:\Coding-Challange\WeatherApp\WeatherApp\WeatherApp.Tests\bin\Debug\net8.0\Weat
 E:\Coding-Challange\WeatherApp\WeatherApp\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\obj\project.assets.json
 E:\Coding-Challange\WeatherApp\WeatherApp\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\obj\WeatherApp.Tests.csproj.nuget.dgspec.json
 E:\Coding-Challange\WeatherApp\WeatherApp\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\obj\Debug\net8.0\MvcTestingAppManifest.json
+e:\Coding-Challange\WeatherApp\WeatherApp\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\appsettings.Development.json
+e:\Coding-Challange\WeatherApp\WeatherApp\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\appsettings.json
+e:\Coding-Challange\WeatherApp\WeatherApp\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\MvcTestingAppManifest.json
+e:\Coding-Challange\WeatherApp\WeatherApp\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.deps.json
+e:\Coding-Challange\WeatherApp\WeatherApp\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.runtimeconfig.json
+e:\Coding-Challange\WeatherApp\WeatherApp\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests.deps.json
+e:\Coding-Challange\WeatherApp\WeatherApp\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests.runtimeconfig.json
+e:\Coding-Challange\WeatherApp\WeatherApp\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\obj\project.assets.json
+e:\Coding-Challange\WeatherApp\WeatherApp\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\obj\WeatherApp.Tests.csproj.nuget.dgspec.json
+e:\Coding-Challange\WeatherApp\WeatherApp\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\bin\Debug\net8.0\WeatherApp.Tests\obj\Debug\net8.0\MvcTestingAppManifest.json
+e:\Coding-Challange\WeatherApp\WeatherApp\WeatherApp.Tests\obj\Debug\net8.0\WeatherApp.Tests.sourcelink.json

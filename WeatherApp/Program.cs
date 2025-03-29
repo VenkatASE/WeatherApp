@@ -29,6 +29,16 @@ builder.Services.AddControllers(); // Add this line to enable controllers
 
 builder.Services.AddHttpClient(); // Register HttpClient service
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
+
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new() { Title = "WeatherApp API", Version = "v1" });
@@ -96,6 +106,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("AllowAll"); // Add this line to enable the CORS policy
 
 app.UseHttpsRedirection();
 app.UseAuthentication(); // Ensure authentication middleware is added

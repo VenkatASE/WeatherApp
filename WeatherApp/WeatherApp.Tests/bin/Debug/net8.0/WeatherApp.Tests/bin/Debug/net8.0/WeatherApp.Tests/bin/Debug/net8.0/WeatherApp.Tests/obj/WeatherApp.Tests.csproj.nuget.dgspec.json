@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.Tests\\WeatherApp.Tests.csproj": {}
+    "E:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.Tests\\WeatherApp.Tests.csproj": {}
   },
   "projects": {
-    "e:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
+    "E:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+        "projectUniqueName": "E:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
         "projectName": "WeatherApp",
-        "projectPath": "e:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+        "projectPath": "E:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
         "packagesPath": "C:\\Users\\nvenk\\.nuget\\packages\\",
-        "outputPath": "e:\\Coding-Challange\\WeatherApp\\WeatherApp\\obj\\",
+        "outputPath": "E:\\Coding-Challange\\WeatherApp\\WeatherApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -119,14 +119,14 @@
         }
       }
     },
-    "e:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.Tests\\WeatherApp.Tests.csproj": {
+    "E:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.Tests\\WeatherApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.Tests\\WeatherApp.Tests.csproj",
+        "projectUniqueName": "E:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.Tests\\WeatherApp.Tests.csproj",
         "projectName": "WeatherApp.Tests",
-        "projectPath": "e:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.Tests\\WeatherApp.Tests.csproj",
+        "projectPath": "E:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.Tests\\WeatherApp.Tests.csproj",
         "packagesPath": "C:\\Users\\nvenk\\.nuget\\packages\\",
-        "outputPath": "e:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.Tests\\obj\\",
+        "outputPath": "E:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -146,8 +146,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "e:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
-                "projectPath": "e:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.csproj"
+              "E:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
+                "projectPath": "E:\\Coding-Challange\\WeatherApp\\WeatherApp\\WeatherApp.csproj"
               }
             }
           }
